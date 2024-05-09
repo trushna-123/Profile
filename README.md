@@ -6,7 +6,9 @@
 
 <br/>
 
- 
+ <div>
+    <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+</div>
 
 
 
@@ -20,9 +22,7 @@
 ⚡ Ready to work  ----> *Check my Resume [here]()*
 
  </div>
- <div>
-    <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
-</div>
+ 
 <div align="center"> 
    
   <a href="">
