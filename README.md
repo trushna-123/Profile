@@ -5,12 +5,13 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 <br/>
+<div>
 
 <div align="center">
  
- 🌱 I’m currently learning *MERN stack*
+ 🌱 I’m currently learning *Java Full stack*
 
-💬 Ask me about *React, CSS ... or anything [here]()*
+💬 Ask me about *java, CSS ... or anything [here]()*
 
 ⚡ Ready to work  ----> *Check my Resume [here]()*
 
@@ -23,6 +24,11 @@
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+</div>
+</div>
+<div>
+    <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+
 </div>
 
  <hr/>
