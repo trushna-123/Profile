@@ -6,11 +6,11 @@
 
 <br/>
 
- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+ 
 
 
 
-
+<div>
 <div align="center">
  
  🌱 I’m currently learning *Java Full stack*
@@ -29,8 +29,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
-
-
+</div>
+<div>
+    <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+</div>
+<br>
+<br>
 
  <hr/>
  
