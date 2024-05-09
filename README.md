@@ -34,10 +34,9 @@
 </div>
 </div>
 
-<br>
-<br>
 
  <hr/>
+ <br>
  <br>
  <br>
 <h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
