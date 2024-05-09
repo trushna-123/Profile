@@ -20,11 +20,11 @@
 ⚡ Ready to work  ----> *Check my Resume [here]()*
 
  </div>
- 
-<div align="center"> 
-    <div>
+ <div>
     <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 </div>
+<div align="center"> 
+   
   <a href="">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
