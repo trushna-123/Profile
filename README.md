@@ -5,11 +5,11 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 <br/>
-<div>
-    <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-</div>
-<div>
+ <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+
+
+
 
 <div align="center">
  
@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
-</div>
+
 
 
  <hr/>
